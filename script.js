@@ -1,0 +1,1 @@
+console.log("Nkauj Chord Guitar site loaded.");
